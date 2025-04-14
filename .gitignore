@@ -1,3 +1,5 @@
 images
+.idea
+.venv
 recognized.txt
 playground.py
