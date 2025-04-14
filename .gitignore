@@ -1,5 +1,6 @@
 images
 .idea
 .venv
+__pycache__/
 recognized.txt
 playground.py
